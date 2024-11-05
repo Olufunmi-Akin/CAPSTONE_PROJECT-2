@@ -1,6 +1,6 @@
 # CAPSTONE_PROJECT 2
 
-### Project Title : : Customer Segmentation for a Subscription Service. (F.M Service)
+### Project Title : : Customer Segmentation for a Subscription Service. (F.M Services)
 
 ### Project Objective 
 The primary objective of this project is to analyze the CustomerData to gain insights into customer behavior, subscription patterns, and regional trends. This analysis aims to identify key factors influencing customer retention, subscription cancellations, and the overall effectiveness of different subscription types. The findings will support strategic decision-making to enhance customer satisfaction and maximize revenue.
