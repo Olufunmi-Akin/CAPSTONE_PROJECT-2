@@ -158,4 +158,4 @@ C. Interactive Power BI Dashboard:
 - Leverage insights from top-performing regions to replicate success in underperforming areas.
 
 ### Conclusion
-This project provides a comprehensive view of the customer base, helping the company to develop strategies that enhance customer satisfaction, reduce churn, and drive sustainable growth.
+This project provides a comprehensive view of the customer base, helping the company to develop strategies that enhance customer satisfaction, optimize revenue, reduce churn, and drive sustainable growth.
